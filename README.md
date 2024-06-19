@@ -42,9 +42,11 @@ My current research focuses on interactive image segmentation based on deep lear
 <br/>  
 
 
-## Languages  
+## Programming Languages  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
+<a href="https://www.chipverify.com/tutorials/verilog/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/che1007/che1007/main/icon/verilog-svgrepo-com.svg" alt="Verilog" height="25" /></a>
+<a href="https://www.chipverify.com/tutorials/systemverilog/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/che1007/che1007/main/icon/light-systemverilog-svgrepo-com.svg" alt="SystemVerilog" height="25" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" height="25" /></a>
 </div>  
 
