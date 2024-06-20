@@ -85,5 +85,3 @@ My current research focuses on interactive image segmentation based on deep lear
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
