@@ -20,7 +20,7 @@ My current research focuses on interactive image segmentation based on deep lear
 <br/>  
 
 
-## Projects
+## HDL Projects
 
 - 🌱 [HDL_Bicubic](https://github.com/che1007/HDL_Bicubic-Resize-Engine)  
   
@@ -33,6 +33,7 @@ My current research focuses on interactive image segmentation based on deep lear
 
 - 🌱 [HDL_Convolutional Neural Network](https://github.com/che1007/HDL_Convolutional-Neural-Network)
 
+- 🌱 [HDL Other Labs](https://github.com/che1007/HDL_Lab)
 
 
 
