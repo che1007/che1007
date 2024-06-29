@@ -28,7 +28,7 @@ My current research focuses on interactive image segmentation based on deep lear
 - 🌱 [HDL_Geofence](https://github.com/che1007/HDL_Geofence)  
   
 
-- 🌱 [HDL_Laser](https://github.com/che1007/HDL_Geofence) 
+- 🌱 [HDL_Laser](https://github.com/che1007/HDL_Laser) 
   
 
 - 🌱 [HDL_Convolutional Neural Network](https://github.com/che1007/HDL_Convolutional-Neural-Network)
