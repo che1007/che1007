@@ -60,8 +60,5 @@ My current research focuses on interactive image segmentation based on deep lear
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
 <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="25" /></a>
 </div>
-<br/>  
-
-
+<br/>
 <br />
-
